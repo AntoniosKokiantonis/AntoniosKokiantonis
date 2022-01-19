@@ -5,8 +5,10 @@
 
 -SELECT 
 -  people
+- 
 -FROM
  - GitHub
+ 
 -WHERE
  - honesty = 100/100
 
