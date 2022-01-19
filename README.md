@@ -5,12 +5,14 @@
 
 -SELECT 
 
-  people
+ - people
 
 -FROM
+
  - GitHub
  
 -WHERE
+
  - honesty = 100/100
 
 - 📫 How to reach me kokiantonisltd@gmail.com
