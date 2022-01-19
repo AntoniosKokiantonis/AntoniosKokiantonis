@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning IBM's Data Science
 - 💞️ I’m looking to collaborate on Data driven projects
 
--SELECT 
-  people
--FROM
-  GitHub
--WHERE
-  honesty = 100/100
+SELECT 
+-  people
+FROM
+ - GitHub
+WHERE
+ - honesty = 100/100
 
 - 📫 How to reach me kokiantonisltd@gmail.com
 
