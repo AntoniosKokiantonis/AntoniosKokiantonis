@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on Data driven projects
 
 -SELECT 
--  people
-- 
+
+  people
+
 -FROM
  - GitHub
  
