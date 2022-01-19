@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on Data driven projects
 
 -SELECT 
--  people
+  people
 -FROM
--  GitHub
+  GitHub
 -WHERE
--  honesty = 100/100
+  honesty = 100/100
 
 - 📫 How to reach me kokiantonisltd@gmail.com
 
