@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data driven projects
 
 (sql-pseudocode )
+
 -SELECT 
 
  - people
