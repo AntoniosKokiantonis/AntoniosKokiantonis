@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AntoniosKokiantonis
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning IBM's Data Science
+- 🌱 I’m currently learning Python and Automation engineering
 - 💞️ I’m looking to collaborate on Data driven projects
-
+(sql-pseudocode )
 -SELECT 
 
  - people
@@ -14,6 +14,11 @@
 -WHERE
 
  - honesty = 100/100
+
+(python-pseudocode )
+
+def success(work, luck, love):
+    print("I am hamble. I am happy")
 
 - 📫 How to reach me kokiantonisltd@gmail.com
 
