@@ -3,25 +3,7 @@
 - 🌱 I’m currently learning Python , SQL and whatever is related to data analysis
 - 💞️ I’m looking to collaborate on Data driven projects
 
-(sql-pseudocode )
 
--SELECT 
-
- - people
-
--FROM
-
- - GitHub
- 
--WHERE
-
- - honesty = 100/100
-
-(python-pseudocode )
-
-def success(work, luck, love):
-
-    print("I am hamble. I am happy")
 
 - 📫 How to reach me kokiantonisltd@gmail.com
 
