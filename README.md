@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntoniosKokiantonis
-- 👀 I’m interested in Data science
-- 🌱 I’m working in Python , SQL and whatever is related to data analysis
-- 💞️ I’m looking to collaborate on Data driven projects
+- 👀 Programming and Data Analysis
+- 🌱 I’m a Power Platform Developer and Business Analyst in Chrisons Co Ltd
+- 💞️ 
 
 
 
