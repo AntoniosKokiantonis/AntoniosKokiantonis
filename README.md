@@ -1,6 +1,6 @@
 
 
-<h1 style="color:blue;> Hi I am Antonios </h1>
+<h1 Hi I am Antonios </h1>
 
   
 
